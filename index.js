@@ -1,5 +1,5 @@
-console.error()
+console.error("Error!")
 
-console.log()
+console.log("Ok")
 
-console.warn()
+console.warn("I'm warning you!")
